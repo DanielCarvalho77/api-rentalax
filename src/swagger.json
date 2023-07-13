@@ -1,0 +1,11 @@
+{
+    "openapi":"3.0.0",
+    "info":{
+        "title":"RentaLX",
+        "description":"API RentaLX",
+        "version":"1.0.0",
+        "contact":{
+            "email": "Fale com o Lambari"
+        }
+    }
+}
